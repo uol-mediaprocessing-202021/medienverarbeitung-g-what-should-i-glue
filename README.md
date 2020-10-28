@@ -1,4 +1,6 @@
 Gruppe G: What should I glue?
+(Jakob Lobmeyer, Sebastian Rabe, Melchior Schilewa)
+
 
 	"For an AR Assistant Application for adhesive testing, it is 
 	necessary to detect and track pieces for gluing in the camera 
