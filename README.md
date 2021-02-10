@@ -14,7 +14,8 @@ Implementation of an application that should be able to detect, mark (display so
 detect
 (
 - Motion Detection (simple, but might work in laboratory like environment)
-- (Sobel) Edge Detection (the test pieces have distinct edges)
+- (Sobel) Edge Detection (the test pieces have distinct edges) 
+	=> contour extraction 
 - adaptive Threshholding (might help with reflective surfaces)
 
 ML
